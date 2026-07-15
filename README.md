@@ -49,4 +49,4 @@ than only maximizing accuracy.
 
 ## Author
 Ehsan Ullah  
-Aspiring Data Scientist & ML Engineer
+Data Scientist & ML Engineer
